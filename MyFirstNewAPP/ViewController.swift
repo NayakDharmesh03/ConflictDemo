@@ -7,7 +7,12 @@
 
 import UIKit
 
-
+/*
+ 1.A reference to the parent commit(s) of the current commit (in case of merge commits, there can be multiple parent commits).
+ 2.The author and committer of the commit, including their name and email address.
+ 3.The date and time when the commit was made.
+ 4.The commit message, which is a description of the changes made in the commit.
+ */
 
 class ViewController: UIViewController {
 
