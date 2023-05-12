@@ -9,7 +9,9 @@ import UIKit
 
 // Branch 3
 
-
+/*
+ Tags in Git SourceTree are markers that you can place on a specific commit in your repository's history to label it with a particular version, release, or milestone. Tags are useful for marking important points in your project's history and making it easy to reference those points later.
+ */
 
 class ViewController: UIViewController {
 
