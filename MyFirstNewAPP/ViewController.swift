@@ -8,7 +8,12 @@
 import UIKit
 
 /*
- Version control: Commits are the building blocks of version control in Git. They allow you to track changes made to your codebase over time and enable you to revert to earlier versions of your code if necessary.
+
+ 1.A reference to the parent commit(s) of the current commit (in case of merge commits, there can be multiple parent commits).
+ 2.The author and committer of the commit, including their name and email address.
+ 3.The date and time when the commit was made.
+ 4.The commit message, which is a description of the changes made in the commit.
+
  */
 
 class ViewController: UIViewController {
