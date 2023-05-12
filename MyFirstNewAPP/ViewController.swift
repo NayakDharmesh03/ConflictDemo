@@ -7,7 +7,9 @@
 
 import UIKit
 
-
+/*
+ Version control: Commits are the building blocks of version control in Git. They allow you to track changes made to your codebase over time and enable you to revert to earlier versions of your code if necessary.
+ */
 
 class ViewController: UIViewController {
 
