@@ -7,12 +7,6 @@
 
 import UIKit
 
-//My name is Dharmeshbhai
-
-
-// This Change For Dev 2
-
-// This Change For Dev 1
 
 
 class ViewController: UIViewController {
